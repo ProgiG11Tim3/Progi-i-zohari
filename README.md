@@ -1,4 +1,4 @@
-# Ozdravii
+# Ozdravi
 
 Olakšava život kad imate bolesnu djecu
 
