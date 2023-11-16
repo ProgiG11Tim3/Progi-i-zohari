@@ -1,9 +1,12 @@
 [submodule "Proggy_I_Zohari_FrontEnd"]
 	path = Proggy_I_Zohari_FrontEnd
 	url = https://github.com/ProgiG11Tim3/Proggy_I_Zohari_FrontEnd
+	branch = main
 [submodule "Proggy_I_Zohari_BackEnd"]
 	path = Proggy_I_Zohari_BackEnd
 	url = https://github.com/ProgiG11Tim3/Proggy_I_Zohari_BackEnd
+	branch = main
 [submodule "Proggy_I_Zohari_Dokumentacija"]
 	path = Proggy_I_Zohari_Dokumentacija
 	url = https://github.com/ProgiG11Tim3/Proggy_I_Zohari_Dokumentacija
+	branch = main
