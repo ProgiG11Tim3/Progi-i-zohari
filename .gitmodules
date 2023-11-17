@@ -6,3 +6,7 @@
 	path = Proggy_I_Zohari_Dokumentacija
 	url = https://github.com/ProgiG11Tim3/Proggy_I_Zohari_Dokumentacija.git
 	branch = main
+[submodule "frontend"]
+	path = Proggy_I_Zohari_FrontEnd
+	url = https://github.com/ProgiG11Tim3/Proggy_I_Zohari_FrontEnd.git
+	branch = main
