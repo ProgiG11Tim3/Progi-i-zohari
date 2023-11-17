@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = Proggy_I_Zohari_BackEnd
+	url = https://github.com/ProgiG11Tim3/Proggy_I_Zohari_BackEnd.git
+	branch = main
+[submodule "dokumentacija"]
+	path = Proggy_I_Zohari_Dokumentacija
+	url = https://github.com/ProgiG11Tim3/Proggy_I_Zohari_Dokumentacija.git
+	branch = main
